@@ -1,2 +1,2 @@
-## Catatan dari Branch A
-Ini perubahan dari branch-a.
+## Catatan dari Branch B
+Ini perubahan dari branch-b.
